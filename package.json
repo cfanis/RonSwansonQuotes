@@ -10,17 +10,16 @@
   "dependencies": {
     "axios": "^1.12.2",
     "core-js": "^3.46.0",
-    "mime-types": "^2.1.35",
     "vue": "^3.5.22"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.22.1",
     "@vue/cli-plugin-babel": "^5.0.9",
     "@vue/cli-plugin-eslint": "^5.0.9",
     "@vue/cli-service": "^5.0.8",
-    "@vue/compiler-sfc": "^3.5.22",
-    "eslint": "^9.9.1",
-    "eslint-plugin-vue": "^9.9.1"
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
     "root": true,
